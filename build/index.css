@@ -1,0 +1,23 @@
+/*!********************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./src/style/main.scss ***!
+  \********************************************************************************************************************************************************************************************************************************************/
+.postbox {
+  width: 780px;
+  height: 600px;
+}
+
+.postbox .inside {
+  width: 600px;
+}
+
+.card {
+  width: auto;
+  height: 450px;
+}
+
+#jituu .app-title {
+  font-size: 1.5em;
+  margin-bottom: 1em;
+}
+
+/*# sourceMappingURL=index.css.map*/

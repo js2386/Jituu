@@ -1,0 +1,17 @@
+{
+    "name": "jitensa/coding-challenge",
+    "description": "plugin for coding challenge",
+    "license": "gpl",
+    "autoload": {
+        "psr-4": {
+            "Jitensa\\CodingChallenge\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jitendrasaraf",
+            "email": "117254039+jitendrasaraf@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
